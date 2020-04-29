@@ -2,7 +2,7 @@
 
 ![0_yz4OzmTYGW6M-UKV](https://user-images.githubusercontent.com/32513366/71764203-797da800-2ec3-11ea-9eb9-8bdca4f45152.jpg)
 
-This repository aims to present practices using ```tensorflow / keras``` framework for deep learning models. In addition to a well-commented implementation, each notebook contains a theoretical explanation about each model, functioning as as a brief introduction to this content.
+This repository aims to present practices using ```tensorflow / keras``` framework for deep learning models. In addition to a well-commented implementation, each notebook contains a theoretical explanation about each model, functioning as a brief introduction to this content.
 
 ## Developed Models/Concepts
 - :heavy_check_mark: Convolutional Neural Network (CNN) 
