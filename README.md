@@ -11,7 +11,7 @@ This repository aims to present practices using ```tensorflow / keras``` framewo
 - :soon: Instance Segmentation
 - :soon: Generative Adversarial Network (GAN)
 
-## Notebook Collaborators
-- Kaike Wesley Reis
+## Documentation
+- [Good practices in Deep Learning for Computational Vision (in portuguese)](https://github.com/KaikeWesleyReis/praticas-deep-learning/wiki/Manual-de-boas-pr%C3%A1ticas-para-Deep-Learning-em-vis%C3%A3o-computacional)
 
 **PS**: The portuguese version of this repo, can be found [here](https://github.com/KaikeWesleyReis/praticas-deep-learning).
