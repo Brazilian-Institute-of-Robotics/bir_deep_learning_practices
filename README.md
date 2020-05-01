@@ -4,6 +4,8 @@
 
 This repository aims to present practices using ```tensorflow / keras``` framework for deep learning models. In addition to a well-commented implementation, each notebook contains a theoretical explanation about each model, functioning as a brief introduction to this content.
 
+**PS**: The portuguese version of this repo, can be found [here](https://github.com/KaikeWesleyReis/praticas-deep-learning).
+
 ## Developed Models/Concepts
 - :heavy_check_mark: Convolutional Neural Network (CNN) 
 - :heavy_check_mark: Recurrent Neural Networks - LSTM & GRU (RNN)
@@ -13,5 +15,3 @@ This repository aims to present practices using ```tensorflow / keras``` framewo
 
 ## Documentation
 - [Good practices in Deep Learning for Computational Vision (in portuguese)](https://github.com/KaikeWesleyReis/praticas-deep-learning/wiki/Manual-de-boas-pr%C3%A1ticas-para-Deep-Learning-em-vis%C3%A3o-computacional)
-
-**PS**: The portuguese version of this repo, can be found [here](https://github.com/KaikeWesleyReis/praticas-deep-learning).
